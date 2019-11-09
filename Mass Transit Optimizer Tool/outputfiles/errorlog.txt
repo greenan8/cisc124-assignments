@@ -1,0 +1,32 @@
+[Error: invalid line format]
+[Line Number:3898]
+318DE758,SA,2B,2019X304
+
+[Error: invalid mode of transport]
+[Line Number:17647]
+8562792,N,C,17,20190304
+
+[Error: invalid line format]
+[Line Number:35455]
+6750708,G,S,7,2BC9B304
+
+[Error: invalid line format]
+[Line Number:36522]
+T201903046226830,,A,10,20190304
+
+[Error: invalid line format]
+[Line Number:41281]
+6165954,C,A,D,20190304
+
+[Error: invalid line format]
+[Line Number:42914]
+S,A,15,20190304
+
+[Error: invalid line format]
+[Line Number:46976]
+,D,A,7,20190304
+
+[Error: invalid age category]
+[Line Number:52323]
+9393317,X,X,16,20190304
+

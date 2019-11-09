@@ -1,0 +1,1185 @@
+[Subway]
+
+[Hour = 1]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+[Count = 2]
+
+[Hour = 2]
+subway: 8418,106,4,50,A,20190304
+[Count = 1]
+
+[Hour = 3]
+subway: 8418,106,4,50,A,20190304
+[Count = 1]
+
+[Hour = 4]
+subway: 8418,106,4,50,A,20190304
+[Count = 1]
+
+[Hour = 5]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+[Count = 2]
+
+[Hour = 6]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+[Count = 3]
+
+[Hour = 7]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+subway: 6660,304,6,40,A,20190304
+[Count = 10]
+
+[Hour = 8]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+subway: 6660,304,6,40,A,20190304
+subway: 7754,373,5,60,A,20190304
+[Count = 11]
+
+[Hour = 9]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+[Count = 8]
+
+[Hour = 10]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+[Count = 5]
+
+[Hour = 11]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+[Count = 5]
+
+[Hour = 12]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+[Count = 6]
+
+[Hour = 13]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+[Count = 9]
+
+[Hour = 14]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+[Count = 6]
+
+[Hour = 15]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+[Count = 8]
+
+[Hour = 16]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+[Count = 9]
+
+[Hour = 17]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+subway: 6660,304,6,40,A,20190304
+subway: 7754,373,5,60,A,20190304
+subway: 7688,193,4,50,A,20190304
+subway: 1013,929,4,50,A,20190304
+subway: 6090,592,4,50,A,20190304
+subway: 7467,857,6,40,A,20190304
+[Count = 15]
+
+[Hour = 18]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+subway: 6660,304,6,40,A,20190304
+subway: 7754,373,5,60,A,20190304
+subway: 7688,193,4,50,A,20190304
+[Count = 12]
+
+[Hour = 19]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+subway: 6660,304,6,40,A,20190304
+[Count = 10]
+
+[Hour = 20]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+subway: 4495,239,5,60,A,20190304
+subway: 9498,932,4,50,A,20190304
+subway: 3922,341,6,40,A,20190304
+subway: 5014,846,6,40,A,20190304
+[Count = 9]
+
+[Hour = 21]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+subway: 7661,327,4,50,A,20190304
+[Count = 5]
+
+[Hour = 22]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+subway: 5822,759,4,50,A,20190304
+[Count = 4]
+
+[Hour = 23]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+subway: 3895,118,6,40,A,20190304
+[Count = 3]
+
+[Hour = 24]
+subway: 8418,106,4,50,A,20190304
+subway: 3053,503,4,50,A,20190304
+[Count = 2]
+
+[GoTrains]
+
+[Hour = 1]
+[Count = 0]
+
+[Hour = 2]
+[Count = 0]
+
+[Hour = 3]
+[Count = 0]
+
+[Hour = 4]
+[Count = 0]
+
+[Hour = 5]
+[Count = 0]
+
+[Hour = 6]
+Gotrain: 9660,G148,220
+[Count = 1]
+
+[Hour = 7]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+Gotrain: 1320,G771,280
+[Count = 4]
+
+[Hour = 8]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+Gotrain: 1320,G771,280
+Gotrain: 3962,G725,300
+[Count = 5]
+
+[Hour = 9]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+[Count = 3]
+
+[Hour = 10]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+[Count = 2]
+
+[Hour = 11]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+[Count = 2]
+
+[Hour = 12]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+[Count = 3]
+
+[Hour = 13]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+Gotrain: 1320,G771,280
+[Count = 4]
+
+[Hour = 14]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+[Count = 2]
+
+[Hour = 15]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+[Count = 3]
+
+[Hour = 16]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+Gotrain: 1320,G771,280
+[Count = 4]
+
+[Hour = 17]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+Gotrain: 1320,G771,280
+Gotrain: 3962,G725,300
+[Count = 5]
+
+[Hour = 18]
+Gotrain: 9660,G148,220
+[Count = 1]
+
+[Hour = 19]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+Gotrain: 1320,G771,280
+[Count = 4]
+
+[Hour = 20]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+Gotrain: 2769,G909,250
+[Count = 3]
+
+[Hour = 21]
+Gotrain: 9660,G148,220
+Gotrain: 1307,G487,180
+[Count = 2]
+
+[Hour = 22]
+Gotrain: 9660,G148,220
+[Count = 1]
+
+[Hour = 23]
+Gotrain: 9660,G148,220
+[Count = 1]
+
+[Hour = 24]
+Gotrain: 9660,G148,220
+[Count = 1]
+
+[Streetcars]
+
+[Hour = 1]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+[Count = 3]
+
+[Hour = 2]
+Streetcar: 2168,SC166,S
+[Count = 1]
+
+[Hour = 3]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+[Count = 2]
+
+[Hour = 4]
+Streetcar: 2168,SC166,S
+[Count = 1]
+
+[Hour = 5]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+[Count = 3]
+
+[Hour = 6]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+[Count = 4]
+
+[Hour = 7]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+Streetcar: 4775,SC461,S
+Streetcar: 8727,SC726,S
+Streetcar: 3017,SC400,S
+[Count = 16]
+
+[Hour = 8]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+Streetcar: 4775,SC461,S
+Streetcar: 8727,SC726,S
+Streetcar: 3017,SC400,S
+Streetcar: 1830,SC284,S
+Streetcar: 3896,SC691,S
+Streetcar: 6756,SC153,S
+Streetcar: 6791,SC530,S
+Streetcar: 5133,SC627,S
+[Count = 21]
+
+[Hour = 9]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+[Count = 12]
+
+[Hour = 10]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+[Count = 9]
+
+[Hour = 11]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+[Count = 6]
+
+[Hour = 12]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+[Count = 10]
+
+[Hour = 13]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+[Count = 13]
+
+[Hour = 14]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+[Count = 6]
+
+[Hour = 15]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+[Count = 12]
+
+[Hour = 16]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+Streetcar: 4775,SC461,S
+Streetcar: 8727,SC726,S
+Streetcar: 3017,SC400,S
+[Count = 16]
+
+[Hour = 17]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+Streetcar: 4775,SC461,S
+Streetcar: 8727,SC726,S
+Streetcar: 3017,SC400,S
+Streetcar: 1830,SC284,S
+Streetcar: 3896,SC691,S
+Streetcar: 6756,SC153,S
+Streetcar: 6791,SC530,S
+Streetcar: 5133,SC627,S
+Streetcar: 6606,SC760,S
+Streetcar: 1008,SC339,S
+Streetcar: 4888,SC856,S
+Streetcar: 4370,SC733,S
+[Count = 25]
+
+[Hour = 18]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+Streetcar: 4775,SC461,S
+Streetcar: 8727,SC726,S
+Streetcar: 3017,SC400,S
+Streetcar: 1830,SC284,S
+Streetcar: 3896,SC691,S
+Streetcar: 6756,SC153,S
+Streetcar: 6791,SC530,S
+Streetcar: 5133,SC627,S
+Streetcar: 6606,SC760,S
+[Count = 22]
+
+[Hour = 19]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+Streetcar: 3533,SC378,S
+Streetcar: 4775,SC461,S
+Streetcar: 8727,SC726,S
+Streetcar: 3017,SC400,S
+[Count = 16]
+
+[Hour = 20]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+Streetcar: 1022,SC545,D
+Streetcar: 8573,SC147,D
+Streetcar: 1765,SC509,D
+[Count = 12]
+
+[Hour = 21]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+Streetcar: 6133,SC353,S
+Streetcar: 9199,SC439,S
+Streetcar: 6983,SC879,S
+[Count = 9]
+
+[Hour = 22]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+Streetcar: 3541,SC821,S
+[Count = 6]
+
+[Hour = 23]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+Streetcar: 1609,SC252,D
+[Count = 5]
+
+[Hour = 24]
+Streetcar: 2168,SC166,S
+Streetcar: 8037,SC392,S
+Streetcar: 1640,SC857,S
+Streetcar: 3884,SC526,D
+[Count = 4]
+
+[Buses]
+
+[Hour = 1]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+[Count = 3]
+
+[Hour = 2]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+[Count = 2]
+
+[Hour = 3]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+[Count = 2]
+
+[Hour = 4]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+[Count = 2]
+
+[Hour = 5]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+[Count = 3]
+
+[Hour = 6]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+[Count = 6]
+
+[Hour = 7]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+Bus: 1251,MB195,60
+Bus: 6185,MB907,50
+[Count = 20]
+
+[Hour = 8]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+Bus: 1251,MB195,60
+Bus: 6185,MB907,50
+Bus: 7383,MB744,50
+Bus: 3545,MB345,50
+Bus: 2834,MB241,50
+Bus: 5814,MB956,50
+Bus: 2493,MB322,50
+[Count = 25]
+
+[Hour = 9]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+[Count = 15]
+
+[Hour = 10]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+[Count = 11]
+
+[Hour = 11]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+[Count = 9]
+
+[Hour = 12]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+[Count = 12]
+
+[Hour = 13]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+[Count = 18]
+
+[Hour = 14]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+[Count = 10]
+
+[Hour = 15]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+[Count = 16]
+
+[Hour = 16]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+Bus: 1251,MB195,60
+Bus: 6185,MB907,50
+[Count = 20]
+
+[Hour = 17]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+Bus: 1251,MB195,60
+Bus: 6185,MB907,50
+Bus: 7383,MB744,50
+Bus: 3545,MB345,50
+Bus: 2834,MB241,50
+Bus: 5814,MB956,50
+[Count = 24]
+
+[Hour = 18]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+Bus: 1251,MB195,60
+Bus: 6185,MB907,50
+Bus: 7383,MB744,50
+Bus: 3545,MB345,50
+Bus: 2834,MB241,50
+Bus: 5814,MB956,50
+Bus: 2493,MB322,50
+Bus: 7190,MB606,50
+Bus: 6232,MB306,60
+Bus: 4021,MB876,60
+Bus: 6036,MB368,60
+Bus: 3006,MB903,60
+Bus: 5949,MB939,60
+Bus: 7558,MB899,50
+Bus: 9111,MB292,50
+Bus: 3374,MB600,50
+Bus: 8771,MB638,40
+Bus: 6774,MB763,40
+Bus: 4244,MB955,50
+[Count = 37]
+
+[Hour = 19]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+Bus: 5319,MB742,50
+Bus: 4054,MB268,50
+Bus: 1727,MB814,60
+Bus: 1251,MB195,60
+Bus: 6185,MB907,50
+Bus: 7383,MB744,50
+Bus: 3545,MB345,50
+[Count = 22]
+
+[Hour = 20]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+Bus: 4830,MB620,60
+Bus: 6908,MB670,50
+Bus: 5892,MB441,50
+Bus: 1689,MB225,50
+[Count = 15]
+
+[Hour = 21]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+Bus: 3168,MB964,60
+Bus: 1670,MB921,60
+[Count = 11]
+
+[Hour = 22]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+Bus: 2892,MB228,60
+Bus: 4587,MB683,60
+[Count = 9]
+
+[Hour = 23]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+Bus: 1939,MB326,50
+Bus: 1194,MB740,50
+Bus: 7950,MB119,40
+[Count = 7]
+
+[Hour = 24]
+Bus: 2541,MB351,40
+Bus: 3755,MB291,40
+Bus: 3307,MB717,40
+Bus: 2786,MB172,50
+[Count = 4]
+
+[Gobuses]
+
+[Hour = 1]
+[Count = 0]
+
+[Hour = 2]
+[Count = 0]
+
+[Hour = 3]
+[Count = 0]
+
+[Hour = 4]
+[Count = 0]
+
+[Hour = 5]
+[Count = 0]
+
+[Hour = 6]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+[Count = 2]
+
+[Hour = 7]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+[Count = 6]
+
+[Hour = 8]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+Gobus: 9375,GB614,45
+[Count = 7]
+
+[Hour = 9]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+[Count = 5]
+
+[Hour = 10]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+[Count = 3]
+
+[Hour = 11]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+[Count = 3]
+
+[Hour = 12]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+[Count = 4]
+
+[Hour = 13]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+[Count = 6]
+
+[Hour = 14]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+[Count = 3]
+
+[Hour = 15]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+[Count = 5]
+
+[Hour = 16]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+[Count = 6]
+
+[Hour = 17]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+Gobus: 9375,GB614,45
+Gobus: 8104,GB567,50
+[Count = 8]
+
+[Hour = 18]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+Gobus: 9375,GB614,45
+[Count = 7]
+
+[Hour = 19]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+Gobus: 6598,GB373,45
+Gobus: 9375,GB614,45
+Gobus: 8104,GB567,50
+[Count = 8]
+
+[Hour = 20]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+Gobus: 6051,GB571,40
+Gobus: 4320,GB853,45
+[Count = 5]
+
+[Hour = 21]
+Gobus: 1394,GB189,30
+Gobus: 9102,GB158,40
+Gobus: 3793,GB126,40
+[Count = 3]
+
+[Hour = 22]
+[Count = 0]
+
+[Hour = 23]
+[Count = 0]
+
+[Hour = 24]
+[Count = 0]
